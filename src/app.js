@@ -3,9 +3,7 @@ import ReactDOM from 'react-dom';
 
 import 'normalize.css/normalize.css';
 
-import IndecisionApp from './components/IndecisionApp';
-
 import './styles/styles.scss';
 
 
-ReactDOM.render(<IndecisionApp />, document.getElementById('app'));
+ReactDOM.render(<p>Boil a plate for me, will ya?</p>, document.getElementById('app'));
