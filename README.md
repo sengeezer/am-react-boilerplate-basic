@@ -1,8 +1,8 @@
 # Indecision
 
-This is my version of the app to part 1 of Andrew Mead's React course on Udemy.
+This is the basic React boilerplate app from Andrew Mead's React course on Udemy.
 
-Occasionally, my version will feature ECMA script features Mead did not use.
+Occasionally, my version will feature ECMA script and SASS features Mead did not use.
 
 ## Babel
 
